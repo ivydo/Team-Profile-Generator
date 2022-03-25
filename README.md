@@ -10,3 +10,7 @@ The user should clone the repository from GitHub and download Node. This applica
 ## Screenshot
 ![HTML](/assets/images/html.jpg)
 ![HTML](/assets/images/terminal.jpg)
+
+## Walkthrough
+![Video Link](https://drive.google.com/file/d/14JpZkxSgR7Y-o_7zolhIycpz7a9hLZZz/view)
+
