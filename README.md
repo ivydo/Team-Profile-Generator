@@ -8,5 +8,5 @@ This application was created to generate a team profile based on user input usin
 The user should clone the repository from GitHub and download Node. This application also requires a file system and inquirer module. If testing is required, this application uses Jest. Run `npm i && npm start` to start application. 
 
 ## Screenshot
-![HTML]("./assets/images/html.jpg")
-![HTML]("./assets/images/terminal.jpg")
+![HTML](/assets/images/html.jpg)
+![HTML](/assets/images/terminal.jpg)
